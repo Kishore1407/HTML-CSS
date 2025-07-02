@@ -4,7 +4,7 @@ This is my solution to the **Simple Booking Interface** challenge on [Frontend M
 
 ## 📸 Screenshot
 
-![Project Screenshot](./screenshot.jpg)
+![Project Screenshot](./screenshot.png)
 
 ## 🔗 Live Site
 
