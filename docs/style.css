@@ -124,5 +124,8 @@ ul li::marker {
     margin: 0;
     background-color: white;
   }
+  .text-content{
+    padding: 15px;
+  }
 }
 
