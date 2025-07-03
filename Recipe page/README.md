@@ -8,7 +8,7 @@ This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www
 
 ## 📸 Screenshot
 
-![Screenshot of recipe page](./assets/images/screenshot.jpg)
+![Screenshot of recipe page](./assets/images/screenshot.png)
 
 ## 📋 Overview
 
