@@ -108,3 +108,21 @@ ul li::marker {
     text-align: center;
     margin-top: 30px;
 }
+
+@media screen and (max-width: 768px) {
+  .box{
+    width: 100%;
+    border-radius: 0;
+    padding: 0;
+  }
+  img{
+    border-radius: 0;
+    width: 100%;
+  }
+  html,body{
+    min-width: 375px;
+    margin: 0;
+    background-color: white;
+  }
+}
+
